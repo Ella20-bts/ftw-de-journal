@@ -1,0 +1,45 @@
+# MY DAY 1 DE JOURNAL (09/13/2025)
+
+## 1) What I learned (bullets, not prose)
+- Data Engineering daily life -- Collect and Clean, Transform, Analyze, Visualize.
+                              -- Don't just build they tell stories with data.
+- ETL vs. ELT
+    ETL - Traditional Approach
+    ELT - Modern Approach
+-Pipeline from source Data to Raw Data to Filtered, Cleaned Augmented     Data to Business-level Data to Visualization/ Analytics
+-6 SQL most used commands - SELECT, FROM, WHERE, GROUP BY, HAVING, ORDER BY.
+-CTAS (CREATE TABLE AS SELECT) for building new tables from queries.
+- To achieve high-quality data, it must have completeness, accuracy, consistency, validity, uniqueness, and integrity.
+
+
+## 2) New vocabulary (define in your own words)
+-OLAP - design for analytical Processing
+-Sandbox → Temporary workspace for experiments.
+
+## 3) Data Engineering mindset applied (what principles did I use?)
+- Move data once! Keep the raw data untouched, preserve the original data set.
+  
+## 4) Decisions & assumptions (why, alternatives, trade-offs)
+- Use Nulls for missing values instead of deleting it to preserve the data.
+
+## 5) Open questions (things I still don’t get)
+- I still don't get the flow to where should I start, Where to load it, Where to transform. Im just following along in the instructions. huhuhehehe
+
+## 6) Next actions (small, doable steps)
+- study GIT
+- search for instruction from other Platforms
+- familiarized in everything.  
+
+
+## 7) Artifacts & links (code, queries, dashboards)
+
+-https://dataengineering.ph/
+-https://www.metabase.com/
+
+### Mini reflection (3–5 sentences)
+- I learned that building pipelines isn’t just about getting the data—it’s about making sure it’s clean, reliable, and something people can actually use. Fixing messy data wasn’t easy, but it showed me how crucial it is for good results. But I still figuring out / learning the process so I can debug the problem on my own.
+
+
+### BONUS: What is a meme that best describes what you feel or your learning today?
+
+![Alt text](../assets/ee.jpeg "what is a data engineer?")
